@@ -1,0 +1,9 @@
+.side-menu-footer {
+  width: 100%;
+  background: #333;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 20px;
+  box-sizing: border-box;
+}
